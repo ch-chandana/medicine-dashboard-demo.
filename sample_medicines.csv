@@ -1,0 +1,11 @@
+id,name,batch,quantity,min_threshold,expiry_date
+1,Paracetamol,BATCH001,25,30,2024-03-12
+2,Insulin,BATCH002,35,40,2024-03-15
+3,Aspirin,BATCH003,10,20,2024-04-05
+4,Amoxicillin,BATCH004,45,50,2024-03-25
+5,Morphine,BATCH005,15,25,2024-04-10
+6,VitaminC,BATCH006,18,30,2025-02-18
+7,Ibuprofen,BATCH007,10,20,2024-04-01
+8,Metformin,BATCH008,38,45,2025-05-20
+9,Diclofenac,BATCH009,12,30,2024-03-30
+10,CoughSyrup,BATCH010,20,35,2025-01-15
