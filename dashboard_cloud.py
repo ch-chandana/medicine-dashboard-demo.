@@ -7,7 +7,8 @@ import time
 st.set_page_config(page_title="🏥 Medicine Monitoring (Demo)", page_icon="💊", layout="wide")
 
 st.title("🏥 Intelligent Medicine Refill & Expiry Alert System (Cloud Demo)")
-st.markdown("Upload your hospital’s medicine data to visualize alerts instantly — no Kafka required.")
+st.markdown("Upload your hospital’s medicine data to visualize real-time alerts — this cloud demo simulates our Apache Kafka–based system.")
+
 
 # ---------------- FILE UPLOAD ----------------
 uploaded_file = st.file_uploader("📂 Upload your medicines CSV file", type=["csv"])
@@ -89,3 +90,4 @@ else:
 
 st.markdown("---")
 st.caption("🌐 Cloud Demo Version — Upload CSV to simulate hospital monitoring in real-time.")
+
